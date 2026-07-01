@@ -107,4 +107,4 @@ See `MANIFEST.md` for the full file-to-manuscript mapping.
 
 ## Repository
 Public repository: https://github.com/ZidongZhou/scl90-selective-escalation-workflow
-Repository DOI metadata should be added after the public release is archived.
+Archived release: https://doi.org/10.5281/zenodo.21118063

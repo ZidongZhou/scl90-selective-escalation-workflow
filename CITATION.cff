@@ -10,6 +10,7 @@ authors:
     given-names: Yue
 version: "1.0.1"
 date-released: "2026-07-02"
+doi: 10.5281/zenodo.21118063
 license: MIT
 keywords:
   - SCL-90
