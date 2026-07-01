@@ -106,5 +106,5 @@ Key workflow and sensitivity files include:
 See `MANIFEST.md` for the full file-to-manuscript mapping.
 
 ## Repository
-Public repository: https://github.com/ZidongZhou/low-burden-scl90-screening-approximation
+Public repository: https://github.com/ZidongZhou/scl90-selective-escalation-workflow
 Repository DOI metadata should be added after the public release is archived.
