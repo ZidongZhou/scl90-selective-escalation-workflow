@@ -1369,7 +1369,7 @@ def main() -> None:
             "random_state": RANDOM_STATE,
             "operational_lasso_order": "code/static/archived_lasso_l1_item_ranking_hunan_all90.csv",
             "archived_simulation_note": "By default, run_all.py and run_plos_one_analysis.py reproduce archived random item-set and selection-stability simulation tables from code/static. Use --recompute-random-baseline to recompute random item-set distributions; selection-stability simulations are archived static outputs in this release.",
-            "package_version": "1.0.0",
+            "package_version": "1.0.1",
             "core_revised_outputs": ["selective full-form escalation", "order-assumed domain-balanced item sets", "non-overlapping/severity labels", "fully nested item-selection CV", "retrospective response-quality audit", "first-stage observable quality flags", "capacity ceiling columns"],
             "added_sensitivity_outputs": ["response-quality-restricted selective escalation", "nested selective escalation threshold/workflow CV", "selective escalation error profile", "subgroup workflow diagnostics", "TRIPOD+AI-informed checklist", "deployment card"],
             "tree_based_sensitivity_default": "not run by run_all.py unless --include-tree is supplied"
