@@ -1,0 +1,40 @@
+{
+  "data_file_name": "Data_collegestudent.csv",
+  "data_source": "Mendeley Data DOI: 10.17632/btzgmr2rt2.1; place Data_collegestudent.csv locally and pass its path with --data",
+  "random_repeats": 1000,
+  "random_baseline_source": "archived_1000_each_size",
+  "bootstrap_ci": 500,
+  "quick_mode": false,
+  "skip_nested_cv": false,
+  "random_state": 20260610,
+  "operational_lasso_order": "code/static/archived_lasso_l1_item_ranking_hunan_all90.csv",
+  "archived_simulation_note": "By default, run_all.py and run_plos_one_analysis.py reproduce archived random item-set and selection-stability simulation tables from code/static. Use --recompute-random-baseline to recompute random item-set distributions; selection-stability simulations are archived static outputs in this release.",
+  "package_version": "1.0.0",
+  "core_revised_outputs": [
+    "selective full-form escalation",
+    "order-assumed domain-balanced item sets",
+    "non-overlapping/severity labels",
+    "fully nested item-selection CV",
+    "retrospective response-quality audit",
+    "first-stage observable quality flags",
+    "capacity ceiling columns"
+  ],
+  "added_sensitivity_outputs": [
+    "response-quality-restricted selective escalation",
+    "nested selective escalation threshold/workflow CV",
+    "selective escalation error profile",
+    "subgroup workflow diagnostics",
+    "TRIPOD+AI-informed checklist",
+    "deployment card"
+  ],
+  "tree_based_sensitivity_default": "not run by run_all.py unless --include-tree is supplied",
+  "include_tree_requested": false,
+  "tree_based_sensitivity_source": "archived_packaged_output",
+  "figure_export_formats": [
+    "PNG preview",
+    "600-dpi LZW TIFF",
+    "editable-text SVG",
+    "editable-text PDF"
+  ],
+  "full_wrapper_completed": true
+}

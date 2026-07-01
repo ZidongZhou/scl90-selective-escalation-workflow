@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code package, please cite the accompanying manuscript and the public Mendeley Data source."
+title: "SCL-90 selective full-form escalation workflow analysis package"
+authors:
+  - family-names: Zhou
+    given-names: Zidong
+  - family-names: Wang
+    given-names: Xuanhe
+  - family-names: Meng
+    given-names: Yue
+version: "1.0.0"
+date-released: "2026-06-27"
+license: MIT
+keywords:
+  - SCL-90
+  - university students
+  - screening approximation
+  - follow-up triage
+  - reproducibility
+references:
+  - type: data
+    title: "Large sample dataset of Chinese college student (SCL-90+mindfulness)"
+    authors:
+      - family-names: Wang
+        given-names: Shoushi
+    doi: "10.17632/btzgmr2rt2.1"

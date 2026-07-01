@@ -1,0 +1,9 @@
+data_raw/
+.venv/
+__pycache__/
+.pytest_cache/
+outputs_final/
+outputs_quick/
+outputs_full*/
+*.pyc
+.DS_Store
