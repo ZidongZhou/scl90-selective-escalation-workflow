@@ -2,7 +2,7 @@
 
 This package accompanies the manuscript:
 
-Selective escalation for approximating an SCL-90 psychological symptom total-score screening rule in Chinese first-year students: a reproducible workflow study
+Selective escalation for approximating an SCL-90 psychological symptom total-score screening rule in a Chinese first-year student dataset: a reproducible workflow study
 
 ## Contents
 
